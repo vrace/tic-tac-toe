@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="TicTacToe.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="BoardController.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="BoardForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="54"/>
+        <CursorPos X="29" Y="60"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Board.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="22" Y="68"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="14" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="18" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="19" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="18" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="19" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="20" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="23" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="10" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="44" Column="27" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="52" Column="29" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="53" Column="29" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="54" Column="29" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="94" TopLine="51"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
