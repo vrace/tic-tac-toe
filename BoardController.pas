@@ -88,7 +88,7 @@ var
 begin
   selected := Sender as TBitBtn;
   Result := 0;
-  for i := 0 to 8 do begin
+  for i := 0 to Length(FBoardItems) - 1 do begin
     if FBoardItems[i] = selected then Result := i;
   end;
 end;
@@ -103,7 +103,7 @@ begin
   LabelO.Color := clNone;
   if FBoard.Turn = ttO then LabelO.Color := clSkyBlue;
 
-  for i := 0 to 8 do begin
+  for i := 0 to Length(FBoardItems) - 1 do begin
     case FBoard.GetItemStatus(i) of
     tsClean: FBoardItems[i].Caption := '';
     tsX: FBoardItems[i].Caption := 'X';
@@ -113,6 +113,4 @@ begin
 end;
 
 end.
-
-
 

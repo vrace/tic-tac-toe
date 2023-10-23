@@ -17,10 +17,10 @@
         <Filename Value="BoardController.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="BoardForm"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="54"/>
-        <CursorPos X="29" Y="60"/>
+        <TopLine Value="12"/>
+        <CursorPos X="50" Y="51"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -28,14 +28,15 @@
       <Unit>
         <Filename Value="Board.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="25"/>
-        <CursorPos X="22" Y="68"/>
+        <TopLine Value="9"/>
+        <CursorPos X="23" Y="83"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="12">
+    <JumpHistory HistoryIndex="18">
       <Position>
         <Filename Value="BoardController.pas"/>
         <Caret Line="14" Column="9"/>
@@ -87,6 +88,30 @@
       <Position>
         <Filename Value="BoardController.pas"/>
         <Caret Line="94" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="106" Column="40" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="23" Column="12" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="33" Column="28" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="61" Column="28" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="BoardController.pas"/>
+        <Caret Line="51" Column="50" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Board.pas"/>
+        <Caret Line="61" Column="22" TopLine="18"/>
       </Position>
     </JumpHistory>
     <RunParams>

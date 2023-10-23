@@ -25,6 +25,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 0
+    TabStop = False
   end
   object BitBtn2: TBitBtn
     Left = 96
@@ -38,6 +39,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 1
+    TabStop = False
   end
   object BitBtn3: TBitBtn
     Left = 184
@@ -51,6 +53,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 2
+    TabStop = False
   end
   object BitBtn4: TBitBtn
     Left = 8
@@ -64,6 +67,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 3
+    TabStop = False
   end
   object BitBtn5: TBitBtn
     Left = 96
@@ -77,6 +81,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 4
+    TabStop = False
   end
   object BitBtn6: TBitBtn
     Left = 184
@@ -90,6 +95,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 5
+    TabStop = False
   end
   object BitBtn7: TBitBtn
     Left = 8
@@ -103,6 +109,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 6
+    TabStop = False
   end
   object BitBtn8: TBitBtn
     Left = 96
@@ -116,6 +123,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 7
+    TabStop = False
   end
   object BitBtn9: TBitBtn
     Left = 184
@@ -129,6 +137,7 @@ object BoardForm: TBoardForm
     OnClick = SelectBoardItem
     ParentFont = False
     TabOrder = 8
+    TabStop = False
   end
   object Panel1: TPanel
     Left = 8
@@ -146,7 +155,7 @@ object BoardForm: TBoardForm
       Left = 4
       Height = 18
       Top = 0
-      Width = 48
+      Width = 50
       Align = alLeft
       BorderSpacing.Left = 4
       Caption = 'X - 0'
@@ -158,10 +167,10 @@ object BoardForm: TBoardForm
       ParentFont = False
     end
     object LabelO: TLabel
-      Left = 204
+      Left = 202
       Height = 18
       Top = 0
-      Width = 48
+      Width = 50
       Align = alRight
       BorderSpacing.Right = 4
       Caption = '0 - O'

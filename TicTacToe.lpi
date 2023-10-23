@@ -36,6 +36,7 @@
         <Filename Value="BoardController.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="BoardForm"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
       </Unit>
       <Unit>
